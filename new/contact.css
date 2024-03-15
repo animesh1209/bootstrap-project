@@ -1,0 +1,22 @@
+header {
+    background-color: #28a745;
+  }
+    .section-title {
+    color: #28a745;
+    font-size: 2rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  i {
+    margin-right: 5px;
+  }
+  
+  

@@ -1,0 +1,47 @@
+body {
+  padding-top: 0px;
+  margin: 0;
+}
+
+.landing-page {
+  background: linear-gradient(to right, #28a745, #34d058);
+  color: #fff;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.navbar {
+  background-color: #28a745;
+}
+
+.product-card {
+  margin-bottom: 50px;
+}
+.product-card:hover{
+  transform: scale(1.1);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 1.5rem;
+}
+
+.card-text {
+  color: #6c757d;
+}
+
+.btn-primary {
+  background-color: #ffc107;
+  border-color: #ffc107;
+}
+
+.btn-primary:hover {
+  background-color: #e0a800;
+  border-color: #e0a800;
+}
+
+.footer {
+  background-color: #343a40;
+  color: #fff;
+  padding: 10px 0;
+}

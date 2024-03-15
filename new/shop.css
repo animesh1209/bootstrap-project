@@ -1,0 +1,27 @@
+header {
+    background-color: #28a745;
+  }
+    
+  .product-card {
+    margin-bottom: 20px;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+  }
+  
+  .card-text {
+    color: #6c757d;
+  }
+  
+  .btn-primary {
+    background-color: #ffc107;
+    border-color: #ffc107;
+  }
+  
+  .btn-primary:hover {
+    background-color: #e0a800;
+    border-color: #e0a800;
+  }
+
+  
